@@ -1,0 +1,33 @@
+.clock-wrap{
+    margin-top: 30%;
+}
+.clock{
+    height: 120px;
+    width: 600px;
+    background-color: blue;
+    margin: auto 0;
+    color: white;
+    padding-left: 40%;
+    padding-top: 5%;
+    font-size: 40px;
+    
+}
+.date{
+    height: 50px;
+    width: 600px;
+    background-color: slategray;
+    margin: auto 0;
+    color: white;
+    padding-left: 25%;
+    padding-top: 10px;
+    font-size: 20px;
+}
+#timechange-button{
+    margin-left: 40%;
+    margin-top: 5%;
+    background-color: blue;
+}
+
+#timechange-button:hover{
+    background-color: slategray;
+}
